@@ -1,0 +1,12 @@
+C:\Work\MovieShopAssingment\MovieShopCustomer\ConsoleTestMovie\bin\Debug\ConsoleTestMovie.exe.config
+C:\Work\MovieShopAssingment\MovieShopCustomer\ConsoleTestMovie\bin\Debug\ConsoleTestMovie.exe
+C:\Work\MovieShopAssingment\MovieShopCustomer\ConsoleTestMovie\bin\Debug\ConsoleTestMovie.pdb
+C:\Work\MovieShopAssingment\MovieShopCustomer\ConsoleTestMovie\bin\Debug\EntityFramework.dll
+C:\Work\MovieShopAssingment\MovieShopCustomer\ConsoleTestMovie\bin\Debug\EntityFramework.SqlServer.dll
+C:\Work\MovieShopAssingment\MovieShopCustomer\ConsoleTestMovie\bin\Debug\Proxy.dll
+C:\Work\MovieShopAssingment\MovieShopCustomer\ConsoleTestMovie\bin\Debug\Proxy.pdb
+C:\Work\MovieShopAssingment\MovieShopCustomer\ConsoleTestMovie\bin\Debug\EntityFramework.xml
+C:\Work\MovieShopAssingment\MovieShopCustomer\ConsoleTestMovie\bin\Debug\EntityFramework.SqlServer.xml
+C:\Work\MovieShopAssingment\MovieShopCustomer\ConsoleTestMovie\obj\Debug\ConsoleTestMovie.csprojResolveAssemblyReference.cache
+C:\Work\MovieShopAssingment\MovieShopCustomer\ConsoleTestMovie\obj\Debug\ConsoleTestMovie.exe
+C:\Work\MovieShopAssingment\MovieShopCustomer\ConsoleTestMovie\obj\Debug\ConsoleTestMovie.pdb

@@ -1,0 +1,10 @@
+C:\Work\MovieShopAssingment\MovieShopCustomer\Proxy\bin\Debug\Proxy.dll.config
+C:\Work\MovieShopAssingment\MovieShopCustomer\Proxy\bin\Debug\Proxy.dll
+C:\Work\MovieShopAssingment\MovieShopCustomer\Proxy\bin\Debug\Proxy.pdb
+C:\Work\MovieShopAssingment\MovieShopCustomer\Proxy\bin\Debug\EntityFramework.dll
+C:\Work\MovieShopAssingment\MovieShopCustomer\Proxy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Work\MovieShopAssingment\MovieShopCustomer\Proxy\bin\Debug\EntityFramework.xml
+C:\Work\MovieShopAssingment\MovieShopCustomer\Proxy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Work\MovieShopAssingment\MovieShopCustomer\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\Work\MovieShopAssingment\MovieShopCustomer\Proxy\obj\Debug\Proxy.dll
+C:\Work\MovieShopAssingment\MovieShopCustomer\Proxy\obj\Debug\Proxy.pdb
