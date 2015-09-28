@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Proxy.DomainModels;
+using Proxy.Facade;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -10,7 +12,10 @@ namespace MovieShopCustomer.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            Facade fac = new Facade();
+            Movie mov = new Movie() { ID = 1, Title = "Title", price = 2020, Year = DateTime.Now };
+            fac.GetMovieRepository().Add(mov);
+            return View(fac.GetMovieRepository().GetAllMovies());
         }
 
         public ActionResult About()

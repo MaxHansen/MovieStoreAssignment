@@ -35,6 +35,12 @@ C:\Work\MovieShopAssingment\MovieShopCustomer\MovieShopCustomer\bin\System.Web.W
 C:\Work\MovieShopAssingment\MovieShopCustomer\MovieShopCustomer\bin\System.Web.WebPages.Razor.xml
 C:\Work\MovieShopAssingment\MovieShopCustomer\MovieShopCustomer\bin\Antlr3.Runtime.pdb
 C:\Work\MovieShopAssingment\MovieShopCustomer\MovieShopCustomer\bin\Newtonsoft.Json.xml
-C:\Work\MovieShopAssingment\MovieShopCustomer\MovieShopCustomer\obj\Debug\MovieShopCustomer.csprojResolveAssemblyReference.cache
 C:\Work\MovieShopAssingment\MovieShopCustomer\MovieShopCustomer\obj\Debug\MovieShopCustomer.dll
 C:\Work\MovieShopAssingment\MovieShopCustomer\MovieShopCustomer\obj\Debug\MovieShopCustomer.pdb
+C:\Work\MovieShopAssingment\MovieShopCustomer\MovieShopCustomer\bin\EntityFramework.dll
+C:\Work\MovieShopAssingment\MovieShopCustomer\MovieShopCustomer\bin\EntityFramework.SqlServer.dll
+C:\Work\MovieShopAssingment\MovieShopCustomer\MovieShopCustomer\bin\Proxy.dll
+C:\Work\MovieShopAssingment\MovieShopCustomer\MovieShopCustomer\bin\Proxy.pdb
+C:\Work\MovieShopAssingment\MovieShopCustomer\MovieShopCustomer\bin\EntityFramework.xml
+C:\Work\MovieShopAssingment\MovieShopCustomer\MovieShopCustomer\bin\EntityFramework.SqlServer.xml
+C:\Work\MovieShopAssingment\MovieShopCustomer\MovieShopCustomer\obj\Debug\MovieShopCustomer.csprojResolveAssemblyReference.cache

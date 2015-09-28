@@ -19,5 +19,13 @@ namespace Proxy.Repositories
                 ctx.SaveChanges();
             }
         }
+
+        public List<Movie> GetAllMovies()
+        {
+            using(var ctx = new MovieShopContext())
+            {
+                return ctx.Movies.ToList();
+            }
+        }
     }
 }

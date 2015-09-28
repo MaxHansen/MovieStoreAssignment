@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MovieShop-Web.config Connection String" description="MovieShop Connection String used in web.config by the application to access the database." defaultValue="MovieShop_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Work\\MovieShopAssingment\\MovieShopCustomer\\MovieShopCustomer\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MovieShop']/@connectionString" />
+  </parameter>
+</parameters>
